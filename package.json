@@ -1,0 +1,27 @@
+{
+  "name": "advanced-manager-plugin",
+  "version": "1.0.0",
+  "description": "Advanced Manager Plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasu001/advanced-manager-plugin.git"
+  },
+  "author": "Vasu Srivastava",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vasu001/advanced-manager-plugin/issues"
+  },
+  "homepage": "https://github.com/vasu001/advanced-manager-plugin#readme",
+  "dependencies": {
+    "code-prettify": "^0.1.0",
+    "requirejs": "^2.3.6"
+  },
+  "devDependencies": {
+    "browserify": "^16.2.3",
+    "watchify": "^3.11.1"
+  }
+}

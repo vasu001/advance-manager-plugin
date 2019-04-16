@@ -1,0 +1,19 @@
+{
+  "name": "vasu/advanced-manager-plugin",
+  "description": "Advanced Manager Plugin",
+  "type": "project",
+  "license": "GPLv2+",
+  "authors": [
+    {
+      "name": "vvasu001",
+      "email": "vvasu001@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Inc\\": "./includes"
+    }
+  }
+}
